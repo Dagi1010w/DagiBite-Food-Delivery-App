@@ -182,6 +182,7 @@ function registerUser() {
 </template>
 
 <style>
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
 .hero-section {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), 
                       url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/ec3a6c9a-060d-4894-93c1-7165c242825e.png');
@@ -197,5 +198,5 @@ function registerUser() {
     }
 }
 
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
 </style>

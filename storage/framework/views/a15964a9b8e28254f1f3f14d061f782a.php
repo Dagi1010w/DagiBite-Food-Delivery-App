@@ -32,4 +32,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH C:\Users\hp\Desktop\food-delivery-app - Copy\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions/views/minimal.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\Users\dagim\OneDrive\Desktop\DagiBites\DagiBite-Food-Delivery-App\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions/views/minimal.blade.php ENDPATH**/ ?>

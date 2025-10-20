@@ -1,4 +1,7 @@
-
+<style scoped>
+/* Include Font Awesome if not already */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+</style>
 <template>
   <footer class="bg-orange-600 text-white">
     <div class="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
@@ -100,7 +103,4 @@ onBeforeUnmount(() => {
 });
 </script>
 
-<style scoped>
-/* Include Font Awesome if not already */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
-</style>
+
